@@ -1,0 +1,4 @@
+- 👋 ola meu nome @JOAOZINZX777
+- 👀 eu estou programando no alura e p5js
+- 🌱 agora estou no github
+- 💞️ irei colaborar por aqui.
